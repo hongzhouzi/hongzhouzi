@@ -1,1 +1,25 @@
-# hongzhouzi
+<!--
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+https://github.com/anuraghazra/github-readme-stats
+-->
+<h2> Hey there! I'm honghouzi.👋</h2>
+
+- 🔭 I’m currently learning **kubernetes**, focused on **cloud-native and microservices**. ![](https://img.shields.io/badge/-kubernetes-46a2f1?style=flat-square&logo=kubernetes&logoColor=white)
+- ⚡  I was a java R&D engineer before. ![](https://img.shields.io/badge/-java-red?style=flat-square&logo=java&logoColor=white)
+
+
+<p align = "center">
+  <img height="150" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hongzhouzi&langs_count=10&layout=compact">
+  <img height="150" src = "https://github-readme-stats.vercel.app/api?username=hongzhouzi&count_private=true&include_all_commits=true&line_height=20">
+</p>
+
